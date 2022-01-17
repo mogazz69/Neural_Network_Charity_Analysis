@@ -4,8 +4,6 @@
 
 To predict loan risk for Alphabet Soup, Machine Learning and Neural Networks are used to analyze a dataset of more than 34,000 organizations that have received funding from Alphabet Soup over the years. Classifiers based on neural network models have been developed and evaluated.
 
-# Results
-
 
 
 # Summary
